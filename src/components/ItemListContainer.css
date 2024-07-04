@@ -12,7 +12,7 @@
   border: 1px solid #aeaeae;
   border-radius: 4px;
   text-align: center;
-  width: calc(33.333% - 40px); /* Tres elementos por fila */
+  width: calc(33.333% - 40px);
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
